@@ -39,7 +39,8 @@ Watara Supervision
 
 ### Computer Cores 
 
-Bandai RX-78
+Bandai RX-78<br>
+Homelab 3/4
 
 
 ### Other Cores 
