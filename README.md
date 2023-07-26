@@ -27,7 +27,9 @@ Entex Adventure Vision<br>
 Fairchild Channel F<br>
 Gamate<br>
 Game & Watch (Official - Pierco)<br>
+Intellivision<br>
 Interton VC 4000<br>
+Mega Duck<br>
 Nichibutsu My Vision<br>
 Tomy Tutor<br>
 Vectrex<br>
