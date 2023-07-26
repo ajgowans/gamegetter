@@ -1,0 +1,5 @@
+Originally published on Finnish book of programs for Salora Manager
+and Fellow, circa 1984
+
+CAS, BAS and FLP (cassette dump, BASIC listing in plain text and floppy
+disk dump) files created by @username in 01/2021.

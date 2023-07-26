@@ -1,0 +1,5 @@
+Originally published on Finnish book of programs for Salora Manager
+and Fellow, circa 1984
+
+CAS and BAS (cassette dump and BASIC listing in plain text) files
+created by @username in 01/2021.
