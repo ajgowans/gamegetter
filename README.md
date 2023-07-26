@@ -18,7 +18,7 @@ db_url = https://raw.githubusercontent.com/ajgowans/gamegetter/db/db.json.zip
 
 ### Console Cores
 
-Bandai Super Vision 8000
+Bandai Super Vision 8000<br>
 Casio PV-1000
 
 
@@ -29,5 +29,5 @@ Bandai RX-78
 
 ### Other Cores 
 
-Epoch Galaxy II
+Epoch Galaxy II<br>
 Tomy Scramble
