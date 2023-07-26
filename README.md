@@ -20,6 +20,7 @@ db_url = https://raw.githubusercontent.com/ajgowans/gamegetter/db/db.json.zip
 
 Bally Astrocade<br>
 Bandai Super Vision 8000<br>
+Benesse Pocket Challenge<br>
 Casio PV-1000<br>
 Entex Adventure Vision<br>
 Fairchild Channel F<br>
