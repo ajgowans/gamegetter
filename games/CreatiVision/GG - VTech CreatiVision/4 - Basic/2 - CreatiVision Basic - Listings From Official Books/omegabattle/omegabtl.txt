@@ -1,0 +1,6 @@
+OMEGA BATTLE
+
+Can you hold off the invading saucers? You only have 50 shots
+to destroy the aliens that appear at random on the screen. Be
+careful not to run into any that appear at ground level, the
+collision will destroy you!

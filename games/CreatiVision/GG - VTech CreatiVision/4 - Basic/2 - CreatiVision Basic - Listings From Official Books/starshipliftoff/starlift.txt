@@ -1,0 +1,5 @@
+STARSHIP LIFTOFF
+
+This is the last of the three C.A.I, programs. You have to
+calculate the force needed to lift a starship off the surface
+of a planet. A fun way to learn your multiplication tables!

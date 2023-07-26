@@ -1,0 +1,13 @@
+WIZZARD MUSIC MACHINE
+
+With this highly innovative program, Wizzard makes it easy for
+you to write and perform your own tunes. Having written your
+tune, you can listen to it and see it displayed, re-write
+sections of it, add to the end of the tune, change individual
+notes and add the name of the composer. An added feature is the
+ability of the program to print out the tune on paper for future
+reference. While we won't guarantee to turn you into a Mozart,
+it will provide lots of fun!
+
+For details on correct note usage, we suggest that you consult
+your BASIC Reference manual.

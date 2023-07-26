@@ -1,0 +1,28 @@
+BLACKJACK
+
+Would you like to try your luck at the Wizzard casino? This
+program allows two players to challenge the Wizzard at once.
+Can you beat the computer dealer?
+
+INSTRUCTIONS
+
+The game commences with the statement 'Shuffling Deck!' on the
+screen. Each player is then asked, in turn to make their
+opening bid. This can be any amount from $1 to your remaining
+bank.
+
+The board will be plotted at this point showing each players
+starting bank and current bet. The deal will commence. Each
+player, in turn will be asked if they wish to Hit (buy another
+card) or Stand (stay with current cards).
+
+To Hit, push SHIFT key or left Fire button on left hand
+controller.
+
+To Stand, push CTRL Key or right fire button on left hand
+controller.
+
+If your cards are stil under 21 the dealer will keep asking you
+to Hit or Stand. Once both players have stood or busted (scored
+over 21 points) the dealer will play. The dealer will stand on
+anything over 17.

@@ -1,0 +1,6 @@
+WIZZARD WAR
+
+Here is a very simple but enjoyable game! It is a variation on
+the popular 'old' space invaders theme. However you must be
+accurate! The more shots that you fire the faster the invaders
+appear!

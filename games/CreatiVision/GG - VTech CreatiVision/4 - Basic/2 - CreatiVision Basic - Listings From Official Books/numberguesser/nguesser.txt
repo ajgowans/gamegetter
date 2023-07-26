@@ -1,0 +1,8 @@
+WIZZARD NUMBER GUESSER
+
+In this program, Wizzard thinks of a number and your job is to
+guess that number. When you have entered your guess, Wizzard
+will inform you as to whether your guess is 'TOO LOW' or 'TOO
+HIGH'. You also will be given the opportunity to set the upper
+limit for the number to be guessed. How many tries will it take
+you to 'get it right'?

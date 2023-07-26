@@ -1,0 +1,6 @@
+SPACE STYLE CHARACTER SET
+
+This program gives the Wizzard an entirely new character set.
+All of the letters are given an exciting "space" style. You can
+use this character set in your own programs by simply adding
+this program.

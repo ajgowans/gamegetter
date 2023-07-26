@@ -1,0 +1,8 @@
+WIZZARD SKETCH
+
+Here is a program that allows you to use the joysticks to
+sketch simple drawings to your T.V. screen. To draw once the
+program is entered, simply 'move' the Left Hand Joystick
+controller in any of its 8 main positions to create a drawing
+of your choosing. The Right Hand Joystick is used to erase
+those areas of the drawing that you wish removed.

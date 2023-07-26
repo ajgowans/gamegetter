@@ -1,0 +1,11 @@
+WIZZARD MATHS QUIZ
+
+In this program, you will be given the chance to improve your
+mathematical prowess. Wizzard will quiz you on any number of
+questions and reward you with a funny face and an original
+musical composition with every correct answer. By the way, if
+you get the answer wrong, Wizzard can be quite rude! In fact,
+he may simply choose not to accept your answer! You may choose
+addition, subtraction, multiplication and division at any of
+three levels of difficulty. We guarantee that this program will
+challenge the entire family.

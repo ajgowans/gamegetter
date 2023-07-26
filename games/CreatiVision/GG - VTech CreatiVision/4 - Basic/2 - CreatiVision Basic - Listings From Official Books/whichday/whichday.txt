@@ -1,0 +1,4 @@
+WHICH DAY?
+
+What day were you born on? This useful program can tell you
+what day of the week any date falls apon.

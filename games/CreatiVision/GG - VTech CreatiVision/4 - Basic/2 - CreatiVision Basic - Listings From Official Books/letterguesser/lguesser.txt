@@ -1,0 +1,6 @@
+WIZZARD LETTER GUESSER
+
+You will quickly perceive that this program is simply an
+adaption of the Wizzard Number Guesser. The difference here is
+that you have to guess a letter from the alphabet rather than a
+number.

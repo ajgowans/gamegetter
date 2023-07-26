@@ -1,0 +1,10 @@
+TEST MARKER
+
+This program is a good example of how Wizzard can be programmed
+to do tedious and repetitive tasks extremely accurately and
+incredibly fast! This particular program will mark and give
+results for up to 50 students.  You simply enter the number of
+questions you require, the correct answers (numerical only) and
+the students results. When the last student's results have been
+entered, Wizzard will summarize the whole group's results
+including percentages and averages.

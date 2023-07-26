@@ -1,0 +1,5 @@
+MATHS DICE
+
+Here is another C.A.I. program that will help make learning
+fun! You have to correctly add up the numbers that appear on
+the dice. An exellent introduction to counting and addition.

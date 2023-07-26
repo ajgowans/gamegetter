@@ -1,0 +1,5 @@
+GRAPHICS EXAMPLE PROGRAM
+
+This is a short program especially designed to illustrate the implementation of
+Wizzard's graphics. Let's say we want the Wizzard to draw a small goldfish on the
+screen such as that used in ROWE'S RELAXATION THERAPY.

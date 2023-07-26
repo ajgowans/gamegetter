@@ -1,0 +1,6 @@
+JOCK THE CLOCK
+
+Help teach the youngsters in your family how to tell the time!
+This program will introduce you to the concept of C.A.I.
+(computer assisted instruction). You can use your Wizzard to
+make learning fun!

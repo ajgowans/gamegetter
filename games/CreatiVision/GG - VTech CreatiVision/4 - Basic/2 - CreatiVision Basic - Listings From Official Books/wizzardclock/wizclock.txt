@@ -1,0 +1,5 @@
+WIZZARD CLOCK
+
+This is our adaptation of a digital clock for you. While we
+can't see it sitting next to you on the bedside table, it will
+provide a good 'time and conversation piece'.

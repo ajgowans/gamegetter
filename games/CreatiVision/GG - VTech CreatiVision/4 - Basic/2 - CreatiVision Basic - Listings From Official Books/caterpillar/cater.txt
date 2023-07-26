@@ -1,0 +1,9 @@
+CATERPILLAR
+
+Use the joysticks to manoever the caterpillar around your
+Wizzards screen. The longer the trail you leave behind, the
+higher the score. When you run into your trail, your game is
+over. How long can you make your trail before you die?
+
+INSTRUCTIONS
+Use left joystick to move caterpillar around.

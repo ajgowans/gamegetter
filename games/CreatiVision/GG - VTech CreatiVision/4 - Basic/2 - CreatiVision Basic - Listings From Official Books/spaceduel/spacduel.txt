@@ -1,0 +1,6 @@
+SPACE DUEL
+
+Here is a two player game that will allow you to fight it out
+in the cold dark reaches of outer space. Use hyper space to
+dodge your oponents shots, manoeuver your ship then fire your
+blaster to destroy the enemy!

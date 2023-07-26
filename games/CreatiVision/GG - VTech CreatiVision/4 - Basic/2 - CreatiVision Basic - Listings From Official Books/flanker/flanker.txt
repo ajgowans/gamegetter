@@ -1,0 +1,6 @@
+FLANKER
+
+Here is a two player computerised version of the old favorite
+board game Reversi also known as Othello. Let your Wizzard move
+the pieces for you on the screen as you enjoy this age old
+game.

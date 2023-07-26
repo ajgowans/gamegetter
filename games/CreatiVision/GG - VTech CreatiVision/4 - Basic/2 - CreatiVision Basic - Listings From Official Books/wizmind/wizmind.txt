@@ -1,0 +1,20 @@
+WIZZARD MIND
+
+This game is a computerised version of one of the world's most
+popular games, Mastermind. You are pitted against the amazing
+Wizzard...Can you win?
+
+The game is played using the same rules as for Mastermind. You
+have to choose from six colours by using the Left Hand Joystick
+to 'rotate' the selector to the required colour, pressing the
+Right Hand Joystick will 'select' the currently blinking colour
+and enter it to the 'board'. Note that you cannot use the same
+colour twice.
+
+For each colour correctly selected, you will be given a white
+marker while for each colour correctly selected AND placed in
+the right position, you will be given a black marker. From
+these 'clues' you will have to try to deduce the correct colour
+combination. Remember that you only have ten turns to do it in.
+If unsuccessful, the correct combination will be displayed at
+the top of the 'board' for you.  Good luck!

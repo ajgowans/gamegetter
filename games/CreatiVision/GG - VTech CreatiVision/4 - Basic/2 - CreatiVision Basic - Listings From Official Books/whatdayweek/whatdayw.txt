@@ -1,0 +1,7 @@
+WHAT DAY OF THE WEEK IS IT? 
+
+This neat little program will calculate which day of the week it
+is (or will be) for virtually any date. Think of how easy it
+will be to work out whether your aunt's birthday is on a Friday
+or whatever. It will certainly aid in planning those all
+important days for you.

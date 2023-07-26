@@ -1,0 +1,8 @@
+WIZZARD WORD
+
+In this program you need a friend (don't we all!) to give
+Wizzard a word. He will then cleverly jumble up the word in
+different ways until you get it right! Make sure the word is
+not too long as it can become next to impossible to sort out.
+This game will provide lots of fun and quite possibly a fair
+dose of frustration!

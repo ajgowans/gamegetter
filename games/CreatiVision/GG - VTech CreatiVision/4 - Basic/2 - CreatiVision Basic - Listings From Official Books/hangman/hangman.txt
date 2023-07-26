@@ -1,0 +1,12 @@
+WIZZARD HANGMAN
+
+As the first program in our book, we thought it would be
+appropriate to give you the opportunity to 'hang' yourself.
+Accordingly, we present the Wizzard version of the traditional
+'Hangman' game. in our version, your 'opponent' chooses a word
+of up to 13 characters in length which he enters into the
+computer. It is then up to you to successfully guess the correct
+letter combination and hence the 'word' without allowing
+yourself to be hung. A unique feature of this game is the use of
+the joystick to select the required character. This game
+includes both graphics and music.
