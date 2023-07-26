@@ -18,6 +18,7 @@ db_url = https://raw.githubusercontent.com/ajgowans/gamegetter/db/db.json.zip
 
 ### Console Cores
 
+Bally Astrocade<br>
 Bandai Super Vision 8000<br>
 Casio PV-1000<br>
 Entex Adventure Vision<br>
@@ -25,6 +26,7 @@ Fairchild Channel F<br>
 Game & Watch (Official - Pierco)<br>
 Nichibutsu My Vision<br>
 Tomy Tutor<br>
+Vectrex<br>
 VTech CreatiVision
 
 
