@@ -1,0 +1,4 @@
+Originally released on cassette by Dick Smith Electronics.
+
+Tape recorded to stereo WAV file and converted to plain TXT file
+through @username@'s tape conversion tool in 01/2021.

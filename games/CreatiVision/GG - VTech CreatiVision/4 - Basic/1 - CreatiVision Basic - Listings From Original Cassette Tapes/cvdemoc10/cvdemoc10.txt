@@ -1,0 +1,35 @@
+Cassette found in South Africa by Paul Rahme.
+The first 8 programs on Side A appear to be
+programming exercises and small demos.
+Program 9 on Side A is the end part of the
+"Color Demo 2" program from the official
+CreatiVision Demo Tape.
+The remaining programs are a mix of old
+and new programs. The complete list of programs
+is as follows:
+
+Side A
+	01: Area of the triangle
+	02: Music demo (not working WIP)
+	03: Musical scale
+	04: Right triangle drawing
+	05: Horizontal line drawing
+	06: Matchstick man drawing
+	07: 52 Cards dealer
+	08: Loan amortisation
+	09: CreatiVision Color Demo 2 (incomplete)
+	10: Colour Bar Chart (TEK variant)
+	11: Calculation (same as CreatiVision Demo Tape)
+	12: High Resolution Demo (TEK variant)
+	13: TEK logo demo
+	14: Educational program (TEK variant)
+	15: Turn the tape over and press Play
+
+Side B
+	01: Welcome to Alec Goodman
+	02: Silent Night
+	03: Biorythm
+	04: Pig Latin words converter
+
+Tape recorded to stereo WAV file and converted to plain TXT file
+through @username@'s tape conversion tool in 03/2021.
