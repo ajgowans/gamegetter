@@ -1,0 +1,24 @@
+MATH LAUNCH
+
+This program is a game written in 1985 by my long time
+friend, mr. John Pospisil of Sydney, Australia.
+
+I got the listing on paper in 2012, then I decided
+that it was time to publish it.
+
+I ended typing it on my PC and fixed a few minor errors
+in it.
+
+Luca Antignano, April 2013.
+
+
+USAGE
+
+The game was originally programmed as a "multi-load" game,
+with part one containing the instructions and the loader
+to the second part - which is the actual game.
+
+I joined the two parts and made the program into a single
+one.
+
+The multiload version is still included.

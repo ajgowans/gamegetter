@@ -1,0 +1,13 @@
+CV PAINT 2001
+
+This is an easy to use painting tool. My very first attempt
+to programming on the CreatiVision Basic. Canvas is 17x15
+dots only due to limitations to the Basic "DIM" statements.
+
+INSTRUCTIONS
+Use left joystick to move your brush around the canvas,
+then push any joystick button to draw a dot.
+You can change brush color by hitting keys 'A' to 'O'
+and also fill canvas with current brush color by hitting
+'Z'.
+Press 'RETURN' to quit program

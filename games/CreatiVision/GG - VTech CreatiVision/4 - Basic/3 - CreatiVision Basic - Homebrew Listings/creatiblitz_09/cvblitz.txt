@@ -1,0 +1,10 @@
+CREATI-BLITZ!
+
+This is a beta-version of a simple videogame, which I
+programmed back in 2001 and never finished due to the
+lack of time/will.
+
+INSTRUCTIONS
+Your airplane is slowly falling down on an hostile
+city, and your aim is to bomb all skycrapers in order
+to clear the ground and then land safely.

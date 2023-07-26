@@ -1,0 +1,4 @@
+Originally released on cassette by VTech.
+
+Tape recorded to mono WAV file and converted to plain TXT and
+CAS file through @username@'s "creatiVision Emulator" in 2015.

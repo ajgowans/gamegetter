@@ -1,0 +1,48 @@
+Kapooka
+A game for CreatiVision BASIC
+Programmed by Paul Rahme, 2009-10.
+In memory of Bert Van Zyl, level designer for Kapooka.
+
+Kapooka is a logic game, where you play the role of the red blob. The object
+of each level is to push the green blobs out of the way, to try reach the exit
+(E).
+
+Control the character using the left hand joystick. Pressing the FIRE button
+will restart the current level.
+
+The game was originally written for linux (http://kapooka.sourceforge.net),
+but the linux version no longer works.
+
+Hope you enjoy the game!
+
+-Paul Rahme (Mr. Bogus)
+paulrahme@yahoo.com
+
+Thanks to Luca Antignano for developing FunnyMu (with the ability to load .TXT
+files), and for pointing me to the books & articles containing tricks used to
+avoid the BASIC memory limits!
+
+BASIC Variables:
+H = current board height
+K = current level number
+L = current level
+N = next level line number
+O = x offset of board's top left corner
+P = y offset of board's top left corner
+W = current board width
+Z = player pos
+
+Blocks:
+0 = empty space
+1 = static block
+2 = wall
+8 = main char
+16 = pushable block
+69 = exit
+
+POKE addresses:
+218 = PRINT screen segment/position
+L (350) = large section of memory for storing level
+1195 = reset DATA counter (prevents overflow on >255 characters)
+1197 = reset DATA pointer (used for reloading current level)
+
