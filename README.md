@@ -18,17 +18,21 @@ db_url = https://raw.githubusercontent.com/ajgowans/gamegetter/db/db.json.zip
 
 ### Console Cores
 
+Arcadia 2001<br>
 Bally Astrocade<br>
 Bandai Super Vision 8000<br>
 Benesse Pocket Challenge<br>
 Casio PV-1000<br>
 Entex Adventure Vision<br>
 Fairchild Channel F<br>
+Gamate<br>
 Game & Watch (Official - Pierco)<br>
+Interton VC 4000<br>
 Nichibutsu My Vision<br>
 Tomy Tutor<br>
 Vectrex<br>
-VTech CreatiVision
+VTech CreatiVision<br>
+Watara Supervision
 
 
 ### Computer Cores 
