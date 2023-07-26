@@ -1,0 +1,8 @@
+Originally released on cassette by Dick Smith Electronics.
+
+Tape recorded to stereo WAV file and converted to plain TXT file
+through Giovanni Ortu's "CvTape" tool.
+
+Additional fixes by @username@ through his "creatiVision Emulator".
+
+CAS version created by @usernames@ in 01/2015.

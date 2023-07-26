@@ -1,0 +1,4 @@
+Originally released on cassette by VTech.
+
+Tape recorded to stereo WAV file and converted to plain TXT file
+through Giovanni Ortu's "CvTape" tool.
