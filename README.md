@@ -20,9 +20,12 @@ db_url = https://raw.githubusercontent.com/ajgowans/gamegetter/db/db.json.zip
 
 Bandai Super Vision 8000<br>
 Casio PV-1000<br>
+Entex Adventure Vision<br>
 Fairchild Channel F<br>
+Game & Watch (Official - Pierco)<br>
 Nichibutsu My Vision<br>
-Tomy Tutor
+Tomy Tutor<br>
+VTech CreatiVision
 
 
 ### Computer Cores 
