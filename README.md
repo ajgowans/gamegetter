@@ -1,4 +1,4 @@
-# The MiSTer Game Getter Database For Obscure Cores
+# The MiSTer Game Getter Database For Obscure Systems
 
 This is a database for the MiSTer project that downloads games, and software, for obscure older systems.
 
@@ -19,7 +19,10 @@ db_url = https://raw.githubusercontent.com/ajgowans/gamegetter/db/db.json.zip
 ### Console Cores
 
 Bandai Super Vision 8000<br>
-Casio PV-1000
+Casio PV-1000<br>
+Fairchild Channel F<br>
+Nichibutsu My Vision<br>
+Tomy Tutor
 
 
 ### Computer Cores 
