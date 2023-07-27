@@ -23,6 +23,7 @@ Bally Astrocade<br>
 Bandai Super Vision 8000<br>
 Benesse Pocket Challenge<br>
 Casio PV-1000<br>
+ColecoVision<br>
 Entex Adventure Vision<br>
 Fairchild Channel F<br>
 Gamate<br>
