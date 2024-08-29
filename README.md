@@ -32,6 +32,7 @@ Intellivision<br>
 Interton VC 4000<br>
 Mega Duck<br>
 Nichibutsu My Vision<br>
+Super Cassette Vision<br>
 Tomy Tutor<br>
 Vectrex<br>
 VTech CreatiVision<br>
