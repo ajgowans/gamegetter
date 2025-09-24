@@ -43,9 +43,3 @@ Watara Supervision
 
 Bandai RX-78<br>
 Homelab 3/4
-
-
-### Other Cores 
-
-Epoch Galaxy II<br>
-Tomy Scramble
